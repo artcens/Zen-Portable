@@ -2,8 +2,8 @@
 A lightweight, no-install version of Zen Browser, keeping all data self-contained for portability. thus making it portable! <br>
 
 If you follow the installation perfectly you will not encounter any weird behavior. at least on my testing, it will run normal and stable. <br>
-- Common sense, basic computer knowledge, and basic problem solving skill is required
-- I don't want you to bother people for a solution over problem related to this repo on Zen related online forum(like Zen's Discord server or Zen's sub-reddit) and mentioning this repo. <br>
+- Common sense, basic computer knowledge, and basic problem solving skill is required. <br>
+I don't want you to bother people for a solution over problem related to this repo on Zen related online forum(like Zen's Discord server or Zen's sub-reddit) and mentioning this repo. <br>
 
 # Disclaimer
 Before we continue, I need to tell you something:
