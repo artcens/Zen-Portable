@@ -1,4 +1,5 @@
 # Zen Portable
+A fork? copy? or Maintened version of [@wysh3's Zen Portable repo](https://github.com/wysh3/Zen-Browser-Portable)
 A lightweight, no-install version of Zen Browser, keeping all data self-contained for portability. thus making it portable! <br>
 
 If you follow the installation perfectly you will not encounter any weird behavior. at least on my testing, it will run normal and stable. <br>
