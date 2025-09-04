@@ -9,7 +9,7 @@ I don't want you to bother people for a solution over problem related to this re
 # Disclaimer
 Before we continue, I need to tell you something:
 1. I do not continue maintaining the Linux version, only Windows! so if you looking for Linux releases, sorry!
-2. I do not responsible on any security vulnerability happening using my release. the build itself is clean from viruses.
+2. I do not responsible on any security vulnerability happening using zen from my releases. the build itself is clean from viruses.
 3. I do not responsible on anything happen with your other Zen instances, for example something break your Zen profile system.
 
 with all that said, lets continue.
