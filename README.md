@@ -1,5 +1,5 @@
 # Zen Portable
-A fork? copy? or Maintened version of [**@wysh3**'s archived Zen Portable repo](https://github.com/wysh3/Zen-Browser-Portable) <br>
+A fork? copy? or Maintened version of [**@wysh3**'s archived Zen Portable](https://github.com/wysh3/Zen-Browser-Portable) <br>
 Zen Portable is a lightweight, no-install version of Zen Browser, keeping all data self-contained for portability. thus making it portable! <br>
 
 If you follow the installation perfectly you will not encounter any weird behavior. at least on my testing, it will run normal and stable. <br>
@@ -42,10 +42,10 @@ zen-portable/
 ---
 ## Credit
 All credit goes to [**@wysh3**](https://github.com/wysh3) <br> 
-Most of it was borrowed from his archived [repo](https://github.com/wysh3/Zen-Browser-Portable). <br>
+Most of it was borrowed from his archived [repository](https://github.com/wysh3/Zen-Browser-Portable). <br>
 All I did was just updating and continue maintaining it, I'll try to maintaining it as long as the launcher script don't break!
 
-if i get in trouble later for stealing. <br>
+if i get in trouble later for 'stealing'. <br>
 please understand that i only know the basic of github, at first i plan to fork it, but i don't really know how to properly manage a forked repo. <br>
 so instead i create new fresh repo. <br>
 all i want is just to help people that want a portable Zen.
