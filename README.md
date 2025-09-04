@@ -44,6 +44,11 @@ All credit goes to [**@wysh3**](https://github.com/wysh3) <br>
 Most of it was borrowed from his archived [repo](https://github.com/wysh3/Zen-Browser-Portable). <br>
 All I did was just updating and continue maintaining it, I'll try to maintaining it as long as the launcher script don't break!
 
+if i get in trouble later for stealing. <br>
+please understand that i only know the basic of github, at first i plan to fork it, but i don't really know how to properly manage a forked repo. <br>
+so instead i create new fresh repo. <br>
+all i want is just to help people that want a portable Zen.
+
 ---
 ## Check out
 - [tra's zen-stylesheet](https://github.com/artcens/tra-zen-stylesheet/tree/main) --- my minimal Zen ricing!
